@@ -1,0 +1,23 @@
+{
+  "name": "typescript-generic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinocturne/typescript-generic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinocturne/typescript-generic/issues"
+  },
+  "homepage": "https://github.com/vinocturne/typescript-generic#readme",
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  }
+}
